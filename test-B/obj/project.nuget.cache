@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FkACyShOgSw=",
+  "success": true,
+  "projectFilePath": "/Users/volodymyrhodovanets/RiderProjects/test-B/test-B/test-B.csproj",
+  "expectedPackageFiles": [
+    "/Users/volodymyrhodovanets/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/Users/volodymyrhodovanets/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/Users/volodymyrhodovanets/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
